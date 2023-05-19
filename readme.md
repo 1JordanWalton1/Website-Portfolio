@@ -6,7 +6,7 @@
 
 ## Демонстрация
 
-Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Pulse-Project/home.html](https://1jordanwalton1.github.io/Website-Portfolio/home.html">Тык</a>
+Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Website-Portfolio/home.html">Тык</a>
 
 ## Технологии
 

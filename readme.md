@@ -6,7 +6,7 @@
 
 ## Демонстрация
 
-Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Website-Portfolio/home.html">Тык</a>
+Ссылка на сайт: <a href="https://1jordanwalton1.github.io/Car-Site/">Тык</a>
 
 ## Технологии
 
